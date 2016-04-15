@@ -25,3 +25,9 @@ Useful Resources
 * https://luarocks.org/
 
 * https://github.com/LewisJEllis/awesome-lua
+
+
+Useful Libraries, Frameworks
+* [Facebook libraries and utilities for Lua] (https://github.com/facebook/fblualib)
+* [fb-python: A bridge between Lua and Python] (https://github.com/facebook/fblualib/tree/master/fblualib/python)
+
