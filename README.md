@@ -14,6 +14,8 @@ Useful Resources
 * http://www.lua.org/manual/5.3/
 * http://www.lua.org/manual/5.3/readme.html
 
+* [Programming in Lua (free, first edition)] (http://www.lua.org/pil/contents.html) - (latest is third edition)
+
 * [archive of the Lua mailing list] (http://lua-users.org/lists/lua-l/)
 
 * http://lua-users.org/wiki/LuaAddons
