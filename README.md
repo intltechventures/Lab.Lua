@@ -15,6 +15,7 @@ Useful References
 * http://www.lua.org/manual/5.3/readme.html
 
 * http://lua-users.org/wiki/
+* http://lua-users.org/wiki/SampleCode
 * http://lua-users.org/wiki/TutorialDirectory
 
 
